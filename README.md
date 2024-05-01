@@ -29,7 +29,7 @@ Maze Solver Project Project Overview: The Maze Solver project is an exciting and
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/maze-solver.git
+   git clone https://github.com/jayant-0000/maze-master
    ```
 
 2. Navigate to the project directory:
@@ -60,7 +60,7 @@ Maze Solver Project Project Overview: The Maze Solver project is an exciting and
 Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run index.py
 ```
 
 - Open the provided URL in your browser to access the web interface.
